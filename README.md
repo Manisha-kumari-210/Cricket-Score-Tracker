@@ -1,9 +1,5 @@
 # Cricket-Score-Tracker
-CricketMatchStats is a C-based application for tracking cricket match statistics. It allows users to input player data, calculate key metrics like batting strike rate and bowler economy rate, and generate match summaries. The app also highlights top performances, such as maximum runs, fours, sixes, and wickets.
-
-# CricketMatchStats
-
-**CricketMatchStats** is a C-based application designed to track and manage cricket match statistics. It allows users to input detailed information about individual player performances, including runs, balls, boundaries, and wickets. The application calculates key performance metrics like batting strike rate and bowler economy rate, and generates match summaries. It also tracks the highest performances, such as maximum runs, fours, sixes, and wickets.
+CricketMatchStats is a C-based application for tracking cricket match statistics. It allows users to input player data, calculate key metrics like batting strike rate and bowler economy rate, and generate match summaries. The app also highlights top performances, such as maximum runs, fours, sixes, and wickets. It allows users to input detailed information about individual player performances, including runs, balls, boundaries, and wickets. The application calculates key performance metrics like batting strike rate and bowler economy rate, and generates match summaries. It also tracks the highest performances, such as maximum runs, fours, sixes, and wickets.
 
 ## Features
 
